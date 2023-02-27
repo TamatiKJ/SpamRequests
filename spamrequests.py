@@ -2,8 +2,11 @@ import requests
 //adding threading to send multiple requests at once
 import threading
 
+//the url for the payment processing link
 url = 'http://...'
 
+//pseudo payment information 
+//this card number passes card validity checks
 data = {
     'cc_number' : '4007000000027',
     'cc_expmonth' : '08',
