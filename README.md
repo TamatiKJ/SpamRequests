@@ -1,4 +1,2 @@
 # SpamRequests
-For when you want to spam payment information to a fraudulent website
-payment verification is charged a few cents per request depending on the verification provider
-so spamming payment details that can pass valid-card verifications costs scammers money 
+For when you want to spam payment information to a fraudulent website. Payment verification is charged a few cents per request depending on their verification provider. Therefore, spamming payment details that can pass a "valid-card verification" like the ones I used in the code costs scammers money.
